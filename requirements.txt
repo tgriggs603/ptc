@@ -1,4 +1,4 @@
 dnspython==1.16.0
 Flask==2.3.2
 flask_restplus==0.13.0
-Werkzeug==2.2.3
+Werkzeug==3.0.1
